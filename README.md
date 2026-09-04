@@ -108,10 +108,19 @@ Structured Software Requirements Specification (SRS) detailing functional and no
 
 ## 📁 Repository Structure
 ```text
-├── Requirements.docx                      # Detailed SRS requirements table
-├── UseCaseFlow.docx                       # Use-case flow specifications (UC-02)
-├── Component_Architecture_and_Jira_Plan.docx # Architecture justification & Jira epics/stories
-├── PLAN.md                                # Comprehensive project execution plan
-└── README.md                              # Project documentation & summary
-```
+├── ASSIGNMENT1/
+│   ├── Requirements.docx                      # Detailed SRS requirements table
+│   ├── UseCaseFlow.docx                       # Use-case flow specifications
+│   └── use-case-diagram.png                   # UML Use-case diagram
+├── ASSIGNMENT2/
+│   ├── Architecture_Comparison_and_Justification.docx # Architecture & design
+│   ├── Jira_Import_Plan.csv                   # Jira migration data
+│   ├── Jira_Project_Plan.docx                 # Project management plan
+│   ├── TELEMEDICINE_COMPONENT_DIAGRAM.png     # Component architecture diagram
+│   └── JIRA/                                  # Jira Board Snapshots
+│       ├── EPICS.png
+│       ├── SPRINT1.png
+│       ├── SPRINT2.png
+│       └── TSBPP-*.png                        # Issue tracking snapshots
+└── README.md                                  # Project documentation
 
